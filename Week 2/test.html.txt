@@ -1,6 +1,7 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="zxx">
 <head>
+<meta charset="utf-8"/>
 <title>... Anamitra Musib 659b8b ...</title>
 
 </head>
